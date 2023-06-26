@@ -1,0 +1,8 @@
+﻿  controller.cpp
+  creator.cpp
+  main.cpp
+  reporter.cpp
+  Создание кода...
+main.obj : error LNK2005: main уже определен в creator.obj
+reporter.obj : error LNK2005: main уже определен в creator.obj
+D:\OS\lab1\x64\Debug\lab1.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
